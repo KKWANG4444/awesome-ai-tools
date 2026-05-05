@@ -1,5 +1,7 @@
 # Awesome AI Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+> 🇨🇳 **国内直连全球 572 个 AI 模型？** [**www.aifast.club**](https://www.aifast.club) · 一个 Key 全搞定
+
 > A curated list of Artificial Intelligence Top Tools
 >
 > Feel free to contribute and also submit your AI tools on [altern.ai](https://altern.ai/?utm_source=awesomeaitools) for free
