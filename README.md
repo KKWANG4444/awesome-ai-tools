@@ -596,4 +596,4 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 created by [Mahsima Dastan](https://github.com/mahseema)
 
 ---
-*🚀 国内开发者 AI API 直连方案：[www.aifast.club](https://www.aifast.club) · 572 个模型一站接入 · 支持 OpenClaw 一键部署 AI 智能体*
+*🚀 国内开发者 AI API 直连方案：[www.aifast.club](https://www.aifast.club) · 572 个模型一站接入 · [🤖 OpenClaw 一键部署 AI 智能体](https://www.aifast.club/openclaw)*
