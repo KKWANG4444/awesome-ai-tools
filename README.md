@@ -1,6 +1,6 @@
 # Awesome AI Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> 🇨🇳 **国内直连全球 572 个 AI 模型？** [**www.aifast.club**](https://www.aifast.club) · 一个 Key 全搞定
+> **AI 工具接入参考：** 对支持自定义 OpenAI 接口的工具，可使用 [www.aifast.club](https://www.aifast.club) 统一配置模型和 Base URL。
 
 > A curated list of Artificial Intelligence Top Tools
 >
@@ -596,4 +596,4 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 created by [Mahsima Dastan](https://github.com/mahseema)
 
 ---
-*🚀 国内开发者 AI API 直连方案：[www.aifast.club](https://www.aifast.club) · 572 个模型一站接入 · [🤖 OpenClaw 一键部署 AI 智能体](https://www.aifast.club/openclaw)*
+*API 接入参考：[www.aifast.club](https://www.aifast.club) · [配置指南](https://github.com/KKWANG4444/ai-api-proxy-china-guide)*
