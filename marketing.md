@@ -82,4 +82,3 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 ## Contributing
 
 Contributions are welcome! Please follow the [guidelines](CONTRIBUTING.md) for adding new tools or improving descriptions.
-

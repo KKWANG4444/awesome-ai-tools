@@ -1,6 +1,6 @@
 # Awesome AI Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> **AI 工具接入参考：** 对支持自定义 OpenAI 接口的工具，可使用 [www.aifast.club](https://www.aifast.club) 统一配置模型和 Base URL。
+> **给工具配置模型：** 支持自定义 OpenAI 接口的项目，可使用这份 [Base URL 配置指南](https://github.com/KKWANG4444/ai-api-proxy-china-guide)；模型范围以 [控制台](https://www.aifast.club) 为准。
 
 > A curated list of Artificial Intelligence Top Tools
 >
@@ -596,4 +596,4 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 created by [Mahsima Dastan](https://github.com/mahseema)
 
 ---
-*API 接入参考：[www.aifast.club](https://www.aifast.club) · [配置指南](https://github.com/KKWANG4444/ai-api-proxy-china-guide)*
+*接入参考：[OpenAI 兼容配置指南](https://github.com/KKWANG4444/ai-api-proxy-china-guide) · [模型状态](https://kkwang4444.github.io/api-status/) · [示例端点](https://www.aifast.club)*
