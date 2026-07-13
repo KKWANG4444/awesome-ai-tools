@@ -56,7 +56,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ### Chatbots
 
 - [ChatGPT](https://chatgpt.com) - *[reviews](https://theresanai.com/chatgpt)* - ChatGPT by OpenAI is a large language model that interacts in a conversational way.
-- [AIFast Hub](https://www.aifast.club) - OpenAI-compatible API access to models listed in its current catalog; availability should be checked in the console and maintenance notices.
 - [Bing Chat](https://www.bing.com/chat) - *[reviews](https://altern.ai/product/bing_chat)* - A conversational AI language model powered by Microsoft Bing.
 - [Gemini](https://gemini.google.com) - *[reviews](https://altern.ai/product/gemini)* - An experimental AI chatbot by Google, powered by the LaMDA model.
 - [Character.AI](https://character.ai/) - *[reviews](https://altern.ai/product/character-ai)* - Character.AI lets you create characters and chat to them.
@@ -232,6 +231,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Developer tools
 
+- [AIFast Hub](https://www.aifast.club) - OpenAI-compatible API access to models listed in its current catalog; availability should be checked in the console and maintenance notices.
 - [Ollama](https://ollama.com/) -  Load and run large LLMs locally to use in your terminal or build your apps.
 - [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
